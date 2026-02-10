@@ -1,4 +1,4 @@
-# Data Engineer Journey 🚀
+# Data Engineer Journey 
 
 This repository documents my journey to become a job-ready Data Engineer.
 
